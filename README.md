@@ -100,3 +100,24 @@ The setup simulates this process by:
 | BLE module (e.g. HM-10)| Wireless broadcasting of sensor data to receiver/mobile interface|
 
 ---
+
+## 🧾 Conclusion
+
+This project demonstrates the successful development of a fully automated PDC measurement system that blends **hardware design**, **embedded systems programming**, and **real-time data acquisition** into one cohesive platform. From designing and fabricating a custom PCB to writing modular Arduino code and integrating fault-tolerant sensor logic, the project showcases full-stack capabilities in electronic system development.
+
+Whether for academic research, industrial testing, or future IoT-based diagnostic tools, this system is a foundation for scalable, modular, and intelligent test automation in electrical insulation analysis.
+
+If you found this project interesting, feel free to fork it, open issues, or reach out for collaboration.  
+Thanks for reading!
+
+---
+
+## 🤝 Contributing
+
+If you'd like to contribute, improve the system, or adapt it for other measurement techniques, feel free to fork the repo and submit a pull request.
+
+## 📬 Contact
+
+📧 Email: hilarymartinsudeze@gmail.com  
+🔗 LinkedIn: [My LinkedIn](https://linkedin.com/in/hilarymu)  
+
